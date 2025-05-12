@@ -1,0 +1,5 @@
+Redux--globally state management
+-->store--->state for whole react app
+->reducer-->functions for whole react app
+-->slice--actionCreator
+--->dipatch---one of the hook method-->use to release an actionCreator
